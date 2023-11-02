@@ -1,0 +1,11 @@
+{
+  "en": {
+    "VMC_RECEIVER": "VMC Receiver",
+    "VMC_SENDER": "VMC Sender",
+    "GET_VMC_RECEIVER_DATA": "Get VMC Receiver Data",
+    "VMC_DESCRIPTION": "Implements the VMC receiver protocol.",
+    "SENDING_TO_VIRTUALMOTIONCAPTURE": "Sending To VirtualMotionCapture",
+    "CALIBRATING_(VIRTUALMOTIONCAPTURE)": "Calibrating (VirtualMotionCapture)",
+    "VMC_(EXTERNAL_APPLICATION)": "VMC (External Application, e.g., VSeeFace, VirtualMotionCapture, SlimeVR)"
+  }
+}

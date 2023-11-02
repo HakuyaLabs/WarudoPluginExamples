@@ -1,0 +1,14 @@
+{
+  "en": {
+    "STREAM_DECK": "Stream Deck",
+    "STREAM_DECK_DESCRIPTION": "Integration with Elgato Stream Deck.",
+    "ON_STREAM_DECK_TRIGGER": "On Stream Deck Trigger",
+    "ON_STREAM_DECK_TOGGLE": "On Stream Deck Toggle",
+    "ON_STREAM_DECK_MESSAGE": "On Stream Deck Message",
+    "RECEIVER_NAME": "Receiver Name",
+    "FAILED_TO_START_STREAM_DECK_SERVICE": "Failed to start Stream Deck service. Please make sure port 19069 is not in use.",
+    "TOGGLE_STATE": "Toggle State",
+    "IF_YES": "If Yes",
+    "IF_NO": "If No"
+  }
+}
